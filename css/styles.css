@@ -192,6 +192,8 @@ button {
 /* ---------HERO--------- */
 .hero {
   padding: 188px 0;
+  margin: 0 auto;
+  max-width: 1440px;
   background: var(--navy-blue);
   background-image: linear-gradient(
       rgba(46, 47, 66, 0.7),
