@@ -262,6 +262,14 @@ button {
   justify-content: center;
 }
 
+/* .icon-antenna {} */
+
+/* .icon-clock {} */
+
+/* .icon-diagram {} */
+
+/* .icon-astronaut {} */
+
 .features-subtitle {
   margin-bottom: 8px;
 }
@@ -337,6 +345,17 @@ button {
 .member-social-link:focus {
   background-color: var(--ocean);
 }
+.member-icon {
+  fill: var(--cloud);
+}
+
+/* .icon-instagram {} */
+
+/* .icon-twitter {} */
+
+/* .icon-facebook {} */
+
+/* .icon-linkedin {} */
 /* ---------OUR TEAM--------- */
 /* ---------PORTFOLIO--------- */
 /* .portfolio {} */
@@ -459,4 +478,16 @@ button {
 .footer-social-link:focus {
   background-color: var(--green);
 }
+
+.footer-icon {
+  fill: var(--cloud);
+}
+
+/* .icon-instagram {} */
+
+/* .icon-twitter {} */
+
+/* .icon-facebook {} */
+
+/* .icon-linkedin {} */
 /* ---------FOOTER--------- */
